@@ -5,4 +5,6 @@ In order to understand how deep learning is working and more specially convoluti
 
 In order to share the progress of knwoledge around convolutional neural network, I will maintain a list of questions I face during the different analysis I launched and try to answer to these questions. Each of the answers should be explained by code examples so that everybody can reproduce the experiment that lead to this conclusion.
 
+I use python 2
+
 Of course, this is an open project, any explanations for some questions are welcome.
